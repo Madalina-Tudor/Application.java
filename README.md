@@ -1,5 +1,6 @@
 # Application.java
 Log in STUDENT:
+
 User: ccc (Puia Madalina)
 Pass: ccc
 
@@ -10,12 +11,14 @@ Continutul taburilor din "Meniu" vor fi vizibile toate doar dupa ce s-au urmat p
 
 ============================================================================================
 Log in PROFESOR:
+
 User: ddd (Gheorghe Pana)
 Pass: ddd
 Se aplica aceleasi reguli ca si la STUDENT.
 
 ============================================================================================
 REGISTER:
+
 NU se pot inregistra studentii sau profesorii care nu au fost hardcodati in cod.
 
 User neinregistrat pt Prof:
