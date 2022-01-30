@@ -23,16 +23,19 @@ Se aplica aceleasi reguli ca si la STUDENT.
 REGISTER:
 
 
-NU se pot inregistra studentii sau profesorii care nu au fost hardcodati in cod.
+NU se pot inregistra studentii sau profesorii care nu au fost hardcodati in cod. In functie de rolul prestabilit al noului user se va face automat redirectionarea catre STUDENT interface sau PROFESOR interface.
 
 
 User neinregistrat pt Prof:
 
 
 Prof nume: POP
+
 Prof prenume: MIHAIL 
 
 
 User neinregistrat pt Student:
+
 Student nume: Bruma 
+
 Student nume: Daniel
