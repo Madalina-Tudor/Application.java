@@ -2,6 +2,7 @@
 Log in STUDENT:
 
 User: ccc (Puia Madalina)
+
 Pass: ccc
 
 Tab-urile de sub "MENIU" devin vizibile DOAR dupa ce au fost accesate butoanele din "COMMANDS" prima data:
@@ -13,6 +14,7 @@ Continutul taburilor din "Meniu" vor fi vizibile toate doar dupa ce s-au urmat p
 Log in PROFESOR:
 
 User: ddd (Gheorghe Pana)
+
 Pass: ddd
 
 Se aplica aceleasi reguli ca si la STUDENT.
