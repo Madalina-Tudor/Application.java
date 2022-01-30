@@ -14,17 +14,22 @@ Log in PROFESOR:
 
 User: ddd (Gheorghe Pana)
 Pass: ddd
+
 Se aplica aceleasi reguli ca si la STUDENT.
 
 ============================================================================================
 REGISTER:
 
+
 NU se pot inregistra studentii sau profesorii care nu au fost hardcodati in cod.
+
 
 User neinregistrat pt Prof:
 
+
 Prof nume: POP
 Prof prenume: MIHAIL 
+
 
 User neinregistrat pt Student:
 Student nume: Bruma 
